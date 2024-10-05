@@ -2,7 +2,9 @@
 # Modify Parameters to The Models withe Neural NetworkS
 
 Pease submit the screen dumps
+
 Showing the results
+
 Make a Copy of the file:
 
 tutorial05_different_approaches_to_define_neural_networks_keras.ipynb
